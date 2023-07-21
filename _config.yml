@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinhong Ni"
 title_separator          : "-"
 name                     : &name "Jinhong Ni"
-description              : &description "Undergraduate (Honours) student at ANU"
+description              : &description "PhD student at HKU"
 url                      : https://jinhong-ni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jinhong-ni/jinhong-ni.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jinhong Ni"
   avatar           : "profile.png"
-  bio              : "Undergraduate (Honours) student at ANU."
-  location         : "Hangzhou, China"
+  bio              : "PhD student at HKU"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "" # url needed

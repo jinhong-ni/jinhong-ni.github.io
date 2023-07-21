@@ -22,3 +22,11 @@ Publications:  [2023](#2023)
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+### Preprint
+
+{% for post in site.publications reversed %}
+  {%if post.pub_year == 'preprint' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

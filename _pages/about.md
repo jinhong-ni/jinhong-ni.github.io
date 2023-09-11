@@ -19,7 +19,9 @@ I was fortunate to work with [Dr. Xiao Tan](https://scholar.google.com/citations
 Research Interest
 ======
 
-I have broad interests in computer vision and machine learning. I am recently working on interesting topics in 3D vision.
+I have broad interests in computer vision and machine learning. I am recently working on interesting topics in AIGC.
 
 Awards
 ======
+
+HKU Presidential Scholarship (HKU-PS) 09/2023

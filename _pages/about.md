@@ -25,3 +25,8 @@ Awards
 ======
 
 HKU Presidential Scholarship (HKU-PS) 09/2023
+
+Teaching
+======
+
+ARIN7101 Statistics in Artificial Intelligence (S1 2023)

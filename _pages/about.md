@@ -24,7 +24,7 @@ I have broad interests in computer vision and machine learning. I am recently wo
 Awards
 ======
 
-HKU Presidential Scholarship (HKU-PS) 09/2023
+- HKU Presidential Scholarship (HKU-PS) (09/2023)
 
 Teaching
 ======

@@ -29,4 +29,4 @@ Awards
 Teaching
 ======
 
-ARIN7101 Statistics in Artificial Intelligence (S1 2023)
+- Teaching Assistant, ARIN7101 Statistics in Artificial Intelligence (S1 2023)

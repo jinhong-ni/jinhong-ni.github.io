@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
-  googlescholar    : "" # url needed
+  googlescholar    : "https://scholar.google.com/citations?user=AYiMs8cAAAAJ&hl=en" # url needed
   email            : "jhni@connect.hku.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

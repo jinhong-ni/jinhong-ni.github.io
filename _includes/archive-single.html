@@ -34,7 +34,7 @@
       {% endif %}
     </i> -->
 
-    {{ title }}<br />
+    <b>{{ title }}</b><br />
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -50,6 +50,9 @@
 		      {% endif %}
 		      {% if post.code %}
 			      <a href="{{post.code}}">[code]</a>
+			  {% endif %}
+          {% if post.page %}
+			      <a href="{{post.page}}">[page]</a>
 			  {% endif %}
 		      {% if post.blog %}
 			      <a href="{{post.blog}}">[中文解读]</a>

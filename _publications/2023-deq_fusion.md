@@ -7,7 +7,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/pdf/2306.16645.pdf'
 code: 'https://github.com/jinhong-ni/DEQFusion'
 author: '<strong>Jinhong Ni</strong>,  Yalong Bai,  Wei Zhang,  Ting Yao,  Tao Mei'
-citation: 'Jinhong Ni,  Yalong Bai,  Wei Zhang,  Ting Yao,  Tao Mei (2023). &quot;Deep Equilibrium Multimodal Fusion.&quot; <i>arXiv preprint, 2023</i>. 1(1).'
+citation:
 pub_year: 'preprint' 
 bib:
 ---

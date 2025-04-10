@@ -46,7 +46,7 @@
 		  {{ post.author}} <br />
           {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
           {% if post.award %}
-            <b>({{ post.award }})</b>
+            (<b>{{ post.award }}</b>)
         {% endif %}
         <br />
 	          {% if post.paperurl %}

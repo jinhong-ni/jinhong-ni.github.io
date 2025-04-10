@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- <strong>More to be updated!</strong> -->
 
-I am a first-year Ph.D. student at [the Australian National University (ANU)](https://www.anu.edu.au/), where I also received my Bachelor's degree with first-class Honours (High Distinction).
+I am a first-year Ph.D. student at [the Australian National University (ANU)](https://www.anu.edu.au/), where I also received my Bachelor's degree with First-class Honours.
 
-I have general interest in generative modeling, particularly diffusion models and their variants.
+I have general interests in generative modeling, particularly diffusion models and their variants.
 
 Email: <jinhong.ni@anu.edu.au> / <jinhong.ni@outlook.com>
 

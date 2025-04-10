@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jinhong Ni"
   avatar           : "photo.png"
-  bio              : "PhD student at HKU"
-  location         : "Hong Kong SAR"
+  bio              : "PhD student at ANU"
+  location         : "Canberra, ACT, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AYiMs8cAAAAJ&hl=en" # url needed
-  email            : "jhni@connect.hku.hk"
+  email            : "jinhong.ni@anu.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

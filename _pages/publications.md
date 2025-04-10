@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">Google Scholar</a>.</u>
 {% endif %}
 
-Publications:  [2025](#2025)  [2023](#2023)
+Publications:  [2025](#2025)
 
 <hr>
 
@@ -19,14 +19,6 @@ Publications:  [2025](#2025)  [2023](#2023)
 
 {% for post in site.publications reversed %}
   {%if post.pub_year == '2025' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-### 2023
-
-{% for post in site.publications reversed %}
-  {%if post.pub_year == '2023' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}

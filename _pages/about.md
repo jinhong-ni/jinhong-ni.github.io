@@ -10,18 +10,13 @@ redirect_from:
 
 <!-- <strong>More to be updated!</strong> -->
 
-I am a first-year Ph.D. student at [the Australian National University (ANU)](https://www.anu.edu.au/). I also received my Bachelor's degree with first-class Honours (High Distinction) from [the Australian National University (ANU)](https://www.anu.edu.au/).
+I am a first-year Ph.D. student at [the Australian National University (ANU)](https://www.anu.edu.au/), where I also received my Bachelor's degree with first-class Honours (High Distinction).
 
-I was fortunate to work with [Xiao Tan](https://scholar.google.com/citations?user=R1rVRUkAAAAJ&hl=en&oi=ao) (Baidu VIS), [Yalong Bai](https://ylbai.me/) (JD Explore Academy), [Tao Mei](https://taomei.me/) (JD Explore Academy), [Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU), and [Yuchi Liu](https://scholar.google.com/citations?user=fBQdhG0AAAAJ&hl=en&oi=ao) (ANU).
+I have general interest in generative modeling, particularly diffusion models and their variants.
 
 Email: <jinhong.ni@anu.edu.au> / <jinhong.ni@outlook.com>
 
 <!-- <strong>More details can be found in my [[CV]]({{ site.baseurl }}/files/resume.pdf). </strong> -->
-
-Research Interest
-======
-
-I have broad interests in computer vision and machine learning.
 
 Awards
 ======

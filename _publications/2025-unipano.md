@@ -2,7 +2,7 @@
 title: "What Makes for Text to 360-degree Panorama Generation with Stable Diffusion?"
 collection: publications
 permalink: #/publication/deq_fusion
-date: 2025-10-01
+date: 2025-5-01
 venue: 'IEEE/CVF International Conference on Computer Vision and Pattern Recognition (<b>ICCV</b>)'
 paperurl: 'https://arxiv.org/abs/2505.22129'
 code: 'https://github.com/jinhong-ni/UniPano'

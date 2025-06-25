@@ -18,6 +18,18 @@ Email: <jinhong.ni@anu.edu.au> / <jinhong.ni@outlook.com>
 
 <!-- <strong>More details can be found in my [[CV]]({{ site.baseurl }}/files/resume.pdf). </strong> -->
 
+News
+======
+
+<ul>
+<li>[06/2025] One paper is accepted to ICCV 2025. </li>
+<li>[04/2025] One paper is selected as a highlight paper at CVPR 2025. </li>
+<li>[03/2025] One paper is accepted to CVPR 2025. </li>
+<!-- <details>
+	<summary>--View More--</summary>
+</details> -->
+</ul>
+
 Awards
 ======
 

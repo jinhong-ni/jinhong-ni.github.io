@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">Google Scholar</a>.</u>
-{% endif %}
+<!-- {% if author.googlescholar %} -->
+  You can find the full list of my articles on <u><a href="{{author.googlescholar}}">Google Scholar</a>.</u>
+<!-- {% endif %} -->
 
 Publications:  [2025](#2025)
 

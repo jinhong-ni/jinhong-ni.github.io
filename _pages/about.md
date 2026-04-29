@@ -39,5 +39,6 @@ Teaching
 ======
 
 *Teaching Assistant*
+- COMP4528 Computer Vision (S1 2026) at the Australian National University
 - STAT1016/1018 Data science 101 / Foundations of data science (Spring 2024) at The University of Hong Kong
 - ARIN7101 Statistics in Artificial Intelligence (Fall 2023) at the University of Hong Kong

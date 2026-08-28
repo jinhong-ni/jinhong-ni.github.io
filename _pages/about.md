@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- <strong>More to be updated!</strong> -->
 
-I am a first-year Ph.D. student at [the Australian National University (ANU)](https://www.anu.edu.au/), where I also received my Bachelor's degree with First-class Honours.
+I am a second-year Ph.D. student at [the Australian National University (ANU)](https://www.anu.edu.au/), where I also received my Bachelor's degree with First-class Honours.
 
-I have general interests in generative modeling, particularly diffusion models and their variants.
+I have general interests in generative modeling, particularly diffusion models and their variants. Currently, I'm working on camera-conditioned video generation.
 
 Email: <jinhong.ni@anu.edu.au> / <jinhong.ni@outlook.com>
 
@@ -22,6 +22,8 @@ News
 ======
 
 <ul>
+<li>[08/2026] Two papers are accepted to TMLR 2026. </li>
+<li>[07/2026] One paper is accepted to ECCV 2026. </li>
 <li>[06/2025] One paper is accepted to ICCV 2025. </li>
 <li>[04/2025] One paper is selected as a highlight paper at CVPR 2025. </li>
 <li>[03/2025] One paper is accepted to CVPR 2025. </li>
